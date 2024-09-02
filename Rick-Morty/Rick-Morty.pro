@@ -11,11 +11,13 @@ CONFIG += c++17
 SOURCES += \
     cloud.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    moon.cpp
 
 HEADERS += \
     cloud.h \
-    mainwindow.h
+    mainwindow.h \
+    moon.h
 
 FORMS +=
 
