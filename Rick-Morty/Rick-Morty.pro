@@ -10,6 +10,7 @@ CONFIG += c++17
 
 SOURCES += \
     Ground.cpp \
+    cactus.cpp \
     cloud.cpp \
     main.cpp \
     mainwindow.cpp \
@@ -17,6 +18,7 @@ SOURCES += \
 
 HEADERS += \
     Ground.h \
+    cactus.h \
     cloud.h \
     mainwindow.h \
     moon.h
