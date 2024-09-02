@@ -12,6 +12,7 @@ SOURCES += \
     Ground.cpp \
     cactus.cpp \
     cloud.cpp \
+    dinosaur.cpp \
     main.cpp \
     mainwindow.cpp \
     moon.cpp
@@ -20,6 +21,7 @@ HEADERS += \
     Ground.h \
     cactus.h \
     cloud.h \
+    dinosaur.h \
     mainwindow.h \
     moon.h
 
