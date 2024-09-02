@@ -9,12 +9,14 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    Ground.cpp \
     cloud.cpp \
     main.cpp \
     mainwindow.cpp \
     moon.cpp
 
 HEADERS += \
+    Ground.h \
     cloud.h \
     mainwindow.h \
     moon.h
